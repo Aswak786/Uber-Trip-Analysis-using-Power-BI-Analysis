@@ -55,7 +55,7 @@ This Power BI project analyzes Uber trip data to uncover insights into booking t
 
 2. Conditional formatting
 
-3, Drill-through and bookmarks
+3. Drill-through and bookmarks
 
 4. Raw data export option
 
@@ -72,10 +72,10 @@ This Power BI project analyzes Uber trip data to uncover insights into booking t
 
  # How to Use
 
-Download the .pbix file from this repository.
+1. Download the .pbix file from this repository.
 
-Open it in Power BI Desktop.
+2. Open it in Power BI Desktop.
 
-Refresh data or connect your own dataset.
+3. Refresh data or connect your own dataset.
 
-Explore interactive dashboards and slicers.
+4. Explore interactive dashboards and slicers.

@@ -1,86 +1,76 @@
 # Uber-Trip-Analysis-using-Power-BI-Analysis
 Uber Trip Analysis Dashboard (Power BI)
 
- Project Overview
+ # Project Overview:
 
 This Power BI project analyzes Uber trip data to uncover insights into booking trends, revenue generation, trip distance, and time efficiency. The interactive dashboard enables stakeholders to make data-driven decisions to optimize pricing, driver allocation, and customer satisfaction.
 
- Objectives
+ # Objectives:
 
-Analyze total bookings, total booking value, and trip distance/time.
+1. Analyze total bookings, total booking value, and trip distance/time.
 
-Identify peak demand hours and daily/weekly booking patterns.
+2. Identify peak demand hours and daily/weekly booking patterns.
 
-Understand location-based booking trends and preferred vehicle types.
+3. Understand location-based booking trends and preferred vehicle types.
 
-Provide drill-through and export options for deeper data exploration.
+4. Provide drill-through and export options for deeper data exploration.
 
- Tools & Technologies
+ # Tools & Technologies
 
-Power BI Desktop
+1. Power BI Desktop
 
-DAX (Data Analysis Expressions)
+2. DAX (Data Analysis Expressions)
 
-Power Query (Data Cleaning & Transformation)
+3. Power Query (Data Cleaning & Transformation)
 
-Excel / CSV Data Source
+4. Excel / CSV Data Source
 
- Key Features
+ # Key Features:
 
-Dynamic KPI Measures: Total Bookings, Booking Value, Trip Distance, Trip Duration.
+1. Dynamic KPI Measures: Total Bookings, Booking Value, Trip Distance, Trip Duration.
 
-Measure Selector: Switch between KPIs dynamically using a disconnected table.
+2. Measure Selector: Switch between KPIs dynamically using a disconnected table.
 
-Interactive Filters: Date, City, and Payment Type slicers.
+3. Interactive Filters: Date, City, and Payment Type slicers.
 
-Time Analysis:
+  # Time Analysis:
 
-10-minute interval area chart
+1. 10-minute interval area chart
 
-Weekday trend line chart
+2. Weekday trend line chart
 
-Hour×Day heatmap
+3. Hour×Day heatmap
 
-Location Analysis:
+# Location Analysis:
 
-Top 5 pickup/drop-off points
+1. Top 5 pickup/drop-off points
 
-Farthest trips
+2. Farthest trips
 
-Preferred vehicle types by location
+3. Preferred vehicle types by location
 
-User Enhancements:
+# User Enhancements:
 
-Dynamic titles
+1. Dynamic titles
 
-Conditional formatting
+2. Conditional formatting
 
-Drill-through and bookmarks
+3, Drill-through and bookmarks
 
-Raw data export option
+4. Raw data export option
 
- Insights Generated
+ # Insights Generated:
 
-Identified peak ride demand during specific time intervals and weekdays.
+1. Identified peak ride demand during specific time intervals and weekdays.
 
-Discovered top pickup/drop zones driving most of the business.
+2. Discovered top pickup/drop zones driving most of the business.
 
-Highlighted vehicle type preferences across different city locations.
+3. Highlighted vehicle type preferences across different city locations.
 
-Enabled faster decision-making through interactive and self-service dashboards.
+4. Enabled faster decision-making through interactive and self-service dashboards.
 
- Project Structure
-Uber_Trip_Analysis/
-│
-├── Dataset/
-│   └── uber_trips_data.csv
-│
-├── PowerBI_Report/
-│   └── Uber_Trip_Analysis.pbix
-│
-└── README.md
 
- How to Use
+ # How to Use
 
 Download the .pbix file from this repository.
 
